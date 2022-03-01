@@ -58,24 +58,6 @@
   <img src="https://i.ibb.co/5T1qpfC/desktop.png" alt="desktop" style="vertical-align:top; margin:4px">
 </p>
 
-## - Gist About me 🖥️ </>
-
-- 🎤 I am a Programming and Networking Enthusiastic
-- 🛸 Learning everyday, currently learning [ASP.NET & JAVA]
-- 🌋 I’m always looking for challenging oppurtunities ahead.
-- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
-
-##  - Contact Me 📱
-<p align='center'>
-  <img src="https://i.imgur.com/jK4imhW.png" alt="discord" style="vertical-align:top; margin:4px"><br>
-  - Email - mrshrestha@protonmail.com
-</p>
-
-##  - Vibing to 🎧
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31e6fkz3bfqatdhcgfgqitn5wznm&cover_image=true&theme=default&bar_color=ff004c" alt="spotify" style="vertical-align:top; margin:4px">    
-</p>
-
 <p align="center">
   <a>
     <img src="http://github-readme-streak-stats.herokuapp.com?user=mrxdwolf&theme=react&background=0d1117&border=666">
