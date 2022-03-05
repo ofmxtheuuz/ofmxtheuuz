@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarala&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    border: none;
+    outline: none;
+}
+
+body {
+    background: linear-gradient(68.15deg, #2F2325 16.62%, #8E5D52 85.61%);
+    background-position: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+.imagem-cabecalho {
+    width: 72px;
+    height: 72px;
+}
+
+.cabecalho-total {
+    color: #FFF2E7;
+    display: flex;
+    border-bottom: 0.4px solid #FFF2E7;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.nav-cabecalho {
+    font-family: 'Sarala', sans-serif;
+    color: #FFF2E7;
+}
+
+.elementos-nav {
+    font-size: 18px;
+    line-height: 29px;
+    margin: 0 50px 0 0;
+    color: #FFF2E7;
+}
+
+.elementos-nav:hover {
+    color: #ecd6c4ae;
+    transition: 500ms;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.main-corpo {
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+.main-titulo {
+    font-family: 'Righteous', cursive;
+    font-size: 64px;
+    line-height: 79px;
+    font-weight: 400;
+    color: #FFF2E7;
+}
+
+.main-paragrafo {
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    line-height: 39px;
+    color: #FFF2E7;
+}
+
+.main-link_button {
+    background: #ECD6C4;
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+    width: 185px;
+    height: 67px;
+    color: #2F2325 !important;
+    font-family: 'Sarala', sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.main-link_button:hover {
+    background: #ecd6c4ae;
+    transition: 500ms;
+}
+
+.main-imagem {
+    width: 394px;
+    height: 429px;
+}
+
+.main-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    color: #FFF2E7;
+    font-family: Sarala;
+    margin: 0 0 2.5% 0;
+    height: 216px;
+}
+
+.main-footer_titulo {
+    font-family: 'Righteous', cursive;
+    color: #FFF2E7;
+    font-weight: normal;
+    font-size: 24px;
+    padding-top: 45px;
+    border-top: 0.4px solid #FFF;
+}
+
+.footer-imagem {
+    border-top: 0.4px solid #FFF;
+    padding-top: 38px;
+    padding-bottom: 28px;
+}
+
+.footer-imagem_logo {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
