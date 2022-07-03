@@ -3,7 +3,7 @@
 - ### Meu nome é Matheus 😁
 - ### Moro em uma pequena cidade em Santa Catarina 🗺️
 - ### Sou um programador com foco em Web e Desktop 🎛️
-- ### Estudo PHP, Javascript, Golang, Elixir, C# etc... 💻
+- ### Estudo PHP, Javascript, Golang, Elixir, C# entre outras... 💻
 - ### Devo confessar que prefiro programar do que qualquer coisa!
  <h1 align="center"> Informações </h1>
 <img align="center" height="180em" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofmxtheuuz&layout=compact&langs_count=7&theme=dracula"/>
