@@ -2,7 +2,7 @@
 
 - ### Meu nome é Matheus 😁
 - ### Moro em uma pequena cidade em Santa Catarina 🗺️
-- ### Sou um programador com foco em Web e Desktop 🎛️
+- ### Sou um programador com foco em desenvolvimento Web e Desktop 🎛️
 - ### Estudo PHP, Javascript, Golang, Elixir, C# entre outras... 💻
 - ### Devo confessar que prefiro programar do que qualquer coisa!
  <h1 align="center"> Informações </h1>
